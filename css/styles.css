@@ -53,10 +53,12 @@ ul, ol {
 }
 .bottom-container {
   background-color: black;
+  width: 20rem;
   padding-top: 10px;
   text-align: center;
   color: white;
   padding-bottom: 0px;
+  position: absolute;
 }
 .btn {
   -webkit-border-radius: 8;
@@ -94,7 +96,7 @@ ul, ol {
   margin: auto;
   text-align: center;
   width: 40rem;
-  padding-bottom: 100px;
+
 }
 .contact-me h1 {
   font-size: 5rem;
